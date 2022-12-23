@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @myrnellejover
-- 👀 I’m interested in all things data!
-- 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on Kaggle projects
+- 👀 I’m interested in all things data science!
+- 🌱 I’m currently learning about ConvNets
+- 💞️ I’m available for freelance work in data visualisation, analytics, and machine learning
 - 📫 How to reach me: www.decisiondata.blog or www.linkedin.com/in/myrnellerjover
 
 <!---
